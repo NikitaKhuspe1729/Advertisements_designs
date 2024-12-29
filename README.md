@@ -1,4 +1,4 @@
-# Product_designs-FIGMA-
+# Product_Advertising_Design-FIGMA-
 
 # Ecohoy 
 ![Home Page Banner](https://github.com/user-attachments/assets/134c1d93-4179-4efc-9382-36eb93419063)
